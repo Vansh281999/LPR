@@ -1,0 +1,14 @@
+{
+  "smtp": {
+    "host": "smtp.example.com",
+    "port": 587,
+    "user": "no-reply@example.com",
+    "password": "{{SMTP_PASSWORD}}",
+    "sender": "no-reply@example.com"
+  },
+  "twilio": {
+    "account_sid": "{{TWILIO_ACCOUNT_SID}}",
+    "auth_token": "{{TWILIO_AUTH_TOKEN}}",
+    "whatsapp_from": "whatsapp:+14155238886"
+  }
+}

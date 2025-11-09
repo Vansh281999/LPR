@@ -1,0 +1,15 @@
+{
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "user": "vansh281999@gmail.com",
+    "password": "aydb uayu frdu njtr",
+    "sender": "vansh281999@gmail.com"
+  },
+  "twilio": {
+    "account_sid": "AC8a30b224eaef504ebafac01544885ae9",
+    "auth_token": "3108d27b43150850fa69b5195283f9a5",
+    "whatsapp_from": "whatsapp:+14155238886",
+    "whatsapp_to": "+917006225284"
+  }
+}
